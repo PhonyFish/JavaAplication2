@@ -16,7 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         System.out.println("Holis mundo!!");
-        System.out.println("lol lol lol lol lol");
+        System.out.println("Karen.Ventura@magmalabs.io");
     }
     
 }
